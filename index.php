@@ -94,7 +94,7 @@
             ?>
     
          <div class="container mt-4">
-                        <form action="/Php1/Submit.html" method='post'>
+                        <form action="submit.html" method='post'>
                     <div class="mb-3">
                         <label for="Nm" class="form-label">Name</label>
                         <input type="text" name="Nm" class="form-control" id="Nm" aria-describedby="emailHelp">
